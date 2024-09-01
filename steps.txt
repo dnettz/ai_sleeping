@@ -1,0 +1,10 @@
+##Create a virtual environment for Python
+	**python3 -m venv --name of environment-- === Done
+##Install Requirements
+   **pip install -r requirements.txt == Done
+##Download Shape detector
+#In this case we are going to use
+	**shape_predictor_68_face_landmarks.dat (C++ Library)
+	**Download Link # https://sourceforge.net/projects/dclib/ == Done
+##Setup the Project
+**Code down 
